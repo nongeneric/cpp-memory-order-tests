@@ -1,0 +1,13 @@
+cores: 4
+IncrementRegular: [3739959/10000000] FAIL
+IncrementRelaxed: [0/10000000] SUCCESS
+IncrementSeqCst: [0/10000000] SUCCESS
+SpinUseRelaxedRegular: [1/10000000] FAIL
+SpinUseRelaxed: [72/10000000] FAIL
+SpinUseAcqRel: [0/10000000] SUCCESS
+SpinUseAcqRelRegular: [0/10000000] SUCCESS
+SpinUseSeqCst: [0/10000000] SUCCESS
+SeqCstAcqRel2: [0/10000000] SUCCESS
+SeqCst2: [0/10000000] SUCCESS
+SeqCstAcqRel4: [0/10000000] SUCCESS
+SeqCst4: [0/10000000] SUCCESS

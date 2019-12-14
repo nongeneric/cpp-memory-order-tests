@@ -1,0 +1,13 @@
+cores: 2
+IncrementRegular: [15379/10000000] FAIL
+IncrementRelaxed: [0/10000000] SUCCESS
+IncrementSeqCst: [0/10000000] SUCCESS
+SpinUseRelaxedRegular: [0/10000000] SUCCESS
+SpinUseRelaxed: [0/10000000] SUCCESS
+SpinUseAcqRel: [0/10000000] SUCCESS
+SpinUseAcqRelRegular: [0/10000000] SUCCESS
+SpinUseSeqCst: [0/10000000] SUCCESS
+SeqCstAcqRel2: [0/10000000] SUCCESS
+SeqCst2: [0/10000000] SUCCESS
+test SeqCstAcqRel4 requires 4 cores, but only 2 are available
+test SeqCst4 requires 4 cores, but only 2 are available
